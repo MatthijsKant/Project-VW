@@ -1,1 +1,2 @@
 # Project-VW
+In this project, the strategic position of the Volkswagen Group was evaluated using the following methods: Porter's Five Forces model, SWOT analysis, PESTEL Macro-economic analysis, and 4P Market-mix analysis. Consequently, the organization is investigated from a contingency management perspective with regards to the recent emissions scandal. Lastly, the organization's strategy is discussed based on relevant theories and literature.
